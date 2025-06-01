@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Invoice Processor,com.example.invoice.util,InvoiceHelper,23,0,0,0,5,0,3,0,3,0
+Invoice Processor,com.example.invoice.util,HelperService,5,0,0,0,2,0,2,0,2,0
+Invoice Processor,com.example.invoice.util,LegacyUtils,12,0,0,0,2,0,2,0,2,0
+Invoice Processor,com.example.invoice.controller,InvoiceController,17,0,0,0,4,0,4,0,4,0
+Invoice Processor,com.example.invoice.service,InvoiceService,4,17,0,0,1,3,1,3,1,3
+Invoice Processor,com.example.invoice.model,Invoice,13,18,0,0,5,8,4,5,4,5
+Invoice Processor,com.example.invoice,InvoiceApplication,8,0,0,0,3,0,2,0,2,0

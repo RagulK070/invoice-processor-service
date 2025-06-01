@@ -1,0 +1,5 @@
+com\example\invoice\service\AsyncInvoiceProcessorTest.class
+com\example\invoice\util\LegacyUtilsConstructorMockTest.class
+com\example\invoice\util\LegacyUtilsTest.class
+com\example\invoice\service\InvoiceServiceTest.class
+com\example\invoice\service\InvoiceServiceJunit5Test.class
